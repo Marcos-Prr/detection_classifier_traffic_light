@@ -10,6 +10,6 @@ If the lights are "red" or "yellow", it outputs command "stop"; If the
 
 #### Equipe do projeto:
 
-Jamile Saraiva
-Bianca Rodrigues
-Marcos Pereira
+*Jamile Saraiva
+*Bianca Rodrigues
+*Marcos Pereira
